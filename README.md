@@ -1,4 +1,4 @@
-# DL_25sp_Project2
+# DL_25sp_Project3
 CS6953/ECE7123 Deep Learning Project3
 
 Group members: Zhuoao Wang, Tianyu Luo, Yuqi Wang
